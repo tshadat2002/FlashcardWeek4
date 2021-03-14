@@ -1,7 +1,7 @@
 ## Lab 2
 
 ### App Description
-
+FlashCard app with extra features 
 
 ### App Walk-though
 
